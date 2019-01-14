@@ -1,0 +1,283 @@
+[
+    [
+        "D:\\sample\\Example\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sample\\Example\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547450559292,
+            "changeTime": 1547450559292,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547450559292,
+            "changeTime": 1547450559292,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547452357893,
+            "changeTime": 1547452357893,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547450559292,
+            "changeTime": 1547450559292,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sample\\Example",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sample\\Example",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547450756353,
+            "changeTime": 1547450756353,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\objects\\Account\\fields\\Extra_Note__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\objects\\Account\\fields\\Extra_Note__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 372,
+            "modifiedTime": 1547452357719,
+            "changeTime": 1547452357719,
+            "contentHash": "d73196e78a0b75804be66ede95c27b2ad6a2a005"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9632,
+            "modifiedTime": 1547452357751,
+            "changeTime": 1547452357751,
+            "contentHash": "7b2fca3a29f08285ea5b504f7de44785c3d78854"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9584,
+            "modifiedTime": 1547452357768,
+            "changeTime": 1547452357768,
+            "contentHash": "f20604bbd3ee4dcb65d9829da190fc6e035ab648"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9632,
+            "modifiedTime": 1547452357777,
+            "changeTime": 1547452357777,
+            "contentHash": "ed752903a263f2a11d46a1c9a941649731dee5bc"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9584,
+            "modifiedTime": 1547452357819,
+            "changeTime": 1547452357819,
+            "contentHash": "1b847dd477f24352627077d4b44683fbb14ae8b9"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4594,
+            "modifiedTime": 1547452357825,
+            "changeTime": 1547452357825,
+            "contentHash": "08eaf29aaef00b17f43457cebc107324a498aa27"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4930,
+            "modifiedTime": 1547452357833,
+            "changeTime": 1547452357833,
+            "contentHash": "c85d5fa13217d6c579a1bde97857f3fa547bd275"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18114,
+            "modifiedTime": 1547452357877,
+            "changeTime": 1547452357877,
+            "contentHash": "89b0ce2ec4faa8767d2621b0544c7badb17b50f8"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4590,
+            "modifiedTime": 1547452357889,
+            "changeTime": 1547452357889,
+            "contentHash": "1e17c0c8c86aa80c81929bb2aa68391dc34ccf79"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\permissionsets\\Example_Permission.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\permissionsets\\Example_Permission.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1547452357894,
+            "changeTime": 1547452357894,
+            "contentHash": "6b7e28a879e2ce214dbde05fb486e1a14ee5fd39"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547452357718,
+            "changeTime": 1547452357718,
+            "contentHash": "545aa35fe9a730ceba12bed4306fcb2123005eeb"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547452357712,
+            "changeTime": 1547452357712,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547452357711,
+            "changeTime": 1547452357711,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547452357818,
+            "changeTime": 1547452357818,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547452357888,
+            "changeTime": 1547452357888,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "D:\\sample\\Example\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sample\\Example\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547452357894,
+            "changeTime": 1547452357894,
+            "contentHash": "7f6699cc0f80764d332be84419e2021e0d689163"
+        }
+    ]
+]
